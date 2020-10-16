@@ -2,12 +2,12 @@
 
 <img align="center" height=100% width=100% src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" alt="hacktoberfest2020">
 <p align="center">
-   <img src="https://img.shields.io/badge/author-Mustafiz04-orange">
-   <img src="https://img.shields.io/github/issues/Mustafiz04/Contribute-to-HacktoberFest2020"> 
-   <img src="https://img.shields.io/github/forks/Mustafiz04/Contribute-to-HacktoberFest2020">
-   <img src="https://img.shields.io/github/stars/Mustafiz04/Contribute-to-HacktoberFest2020?color=green">
-   <img src="https://komarev.com/ghpvc/?username=Mustafiz04&color=blue">
-   <img src="https://img.shields.io/github/issues-pr/Mustafiz04/Contribute-to-HacktoberFest2020.svg">
+    <img src="https://img.shields.io/badge/author-Mustafiz04-orange">
+    <img src="https://img.shields.io/github/issues/Mustafiz04/Contribute-to-HacktoberFest2020"> 
+    <img src="https://img.shields.io/github/forks/Mustafiz04/Contribute-to-HacktoberFest2020">
+    <img src="https://img.shields.io/github/stars/Mustafiz04/Contribute-to-HacktoberFest2020?color=green">
+    <img src="https://komarev.com/ghpvc/?username=Mustafiz04&color=blue">
+    <img src="https://img.shields.io/github/issues-pr/Mustafiz04/Contribute-to-HacktoberFest2020.svg">
 </p>
 
 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest-2020 and make 4 pull requests (PRs) between October 1-31 to earn a free T-shirt & Stickers.**
@@ -17,11 +17,11 @@
 # Overview
 The goal of this project is to help the beginners with their contributions in Open Source. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines. You can contribute to it in either of the following ways:
 
-- Beginners:
+- Beginners:-
 	- A "Hello World" program in your favorite language.
-- Intermediate:
+- Intermediate:-
 	- Add any one of your favorite algorithm in your favorite language, from simple to complex!
-- Expert:
+- Expert:-
 	- Add any graphical game in your favorite programming language!
 
 
